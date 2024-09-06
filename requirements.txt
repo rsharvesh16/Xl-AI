@@ -1,0 +1,6 @@
+streamlit 
+pandas 
+google-generativeai 
+google-auth
+python-dotenv
+grpcio
