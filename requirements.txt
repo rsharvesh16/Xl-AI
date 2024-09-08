@@ -4,3 +4,9 @@ google-generativeai
 google-auth
 python-dotenv
 grpcio
+boto3
+awscli
+faiss-cpu
+numpy==1.26.0
+langchain
+langchain-community
